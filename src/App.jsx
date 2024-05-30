@@ -4,7 +4,7 @@ function App() {
   return (
     <>
     <div className='bg-slate-500 text-2xl'>
-      agar ye hogya tau mai sutta piunga
+      <h2>Happy</h2>
     </div>
     </>
   )
