@@ -4,10 +4,8 @@ function App() {
   return (
     <>
     <div className='bg-slate-500 text-2xl'>
-      kjsdfljsdhkjdshjl
+      agar ye hogya tau mai sutta piunga
     </div>
-    <h1>kjsdckbsdkjcbsdkjb</h1>
-    <h2>kjsdbkjsbdkjb</h2>
     </>
   )
 }
